@@ -1,0 +1,23 @@
+Correction of 2026-11-07-kirkland-peter-kirk-building.jpg (Adriano 2026-11-14). Grounded on Google Street View (Jul 2024) read in Chrome from Market St & 7th Ave: two stories, cream corner turret corbelled at the second floor, conical roof, round-arched corner entry, arched windows with cream trim. For review; history posts keep a real photo or none (images.md 4c).
+
+model: gpt-image-2.6-sunburst
+quality: high
+size: 1024x1536
+made: 2026-11-14
+place: Peter Kirk Building, Market Street and 7th Avenue
+maps: https://www.google.com/maps/search/?api=1&query=Peter%20Kirk%20Building%2C%20620%20Market%20St%2C%20Kirkland%2C%20WA
+streetview_date: 2024-07
+
+Ultra-realistic editorial photograph, shot on a full-frame camera with a 35 mm lens at eye level, natural light, true-to-life color, fine detail, no HDR glow, no oversaturation, no painterly or illustrated look. Vertical 4:5 composition.
+
+Place: the Peter Kirk Building, an 1891 two-story red-brick Victorian commercial building on the corner of Market Street and 7th Avenue in downtown Kirkland, Washington, photographed in mid-November.
+
+Vantage and geometry (important): the camera stands on the far corner across the intersection, on the west side of Market Street, and faces southeast toward the building's corner. The building's corner sits in the center of the frame. The building is exactly TWO stories tall, nothing taller. Its signature: a round corner turret, painted cream, attached only at the second-floor level and corbelled out over the corner, with tall narrow sash windows around its middle, a band of small round-arched windows near its top under a molded cream cornice, and a steep dark-gray shingled conical roof ending in a small finial; the turret's roof rises above the building's roofline. Directly beneath the turret, at street level, a round-arched corner entrance with a patterned brick arch and cream-painted double doors with glass panes. To the right of the corner, the long Market Street facade recedes away from the camera toward the right edge: on the ground floor, large shop display windows with cream-painted wood frames, transom windows above them and a recessed entry; on the second floor, a row of tall round-arched windows, each outlined with a cream arch trim. To the left of the corner, the 7th Avenue facade recedes away up a gentle hill toward the left edge, with the same tall round-arched second-floor windows with cream trim, and small arched windows low in the brick where the sidewalk rises. Along the top of both facades runs a decorative cream cornice band; the roofline is flat behind a low parapet. Warm red-brown brick laid in even courses, slightly weathered, real mortar texture.
+
+Street: a crosswalk with white bars in the foreground on dark asphalt still wet from a morning rain; a brick-edged sidewalk with a few potted plants by the entrance; one slender birch tree with the last yellow leaves stands in front of the Market Street facade, not hiding the turret. Fallen gold leaves on the sidewalk.
+
+Light: about 3:30 PM, low warm sun from behind the camera on the right, raking across the Market Street facade and the turret so the brick glows and the cream trim catches the light; soft blue sky with a few high clouds.
+
+People: one or two pedestrians at mid-distance on the sidewalk, seen from behind or in profile, in autumn coats; nobody looking at the camera.
+
+No text, no signs, no street signs, no traffic signals, no address numbers, no logos, no banners, no watermarks, no readable lettering anywhere. No third story, no extra towers, no added balconies. The image reads as a real photograph a local photographer took this week: calm, warm and true to the building.
